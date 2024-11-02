@@ -1,0 +1,5 @@
+{
+    "excel_folder_path": "../excels/",
+    "out_put_table_path": "../tables",
+    "out_put_extends_path": "../extends"
+}

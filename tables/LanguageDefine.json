@@ -1,0 +1,22 @@
+[
+  {
+    "ID": 1,
+    "languageCode": "zh-TW",
+    "Language": "繁體中文"
+  },
+  {
+    "ID": 2,
+    "languageCode": "zh-CN",
+    "Language": "简体中文"
+  },
+  {
+    "ID": 3,
+    "languageCode": "en",
+    "Language": "english"
+  },
+  {
+    "ID": 4,
+    "languageCode": "ja",
+    "Language": "日本語"
+  }
+]
